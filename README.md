@@ -1,4 +1,3 @@
-
 # 2021 Tokyo Olympics Data Analysis
 
 This project leverages the **2021 Tokyo Olympics dataset** to perform Big Data analytics using modern data processing tools like Apache Spark and Hadoop.
